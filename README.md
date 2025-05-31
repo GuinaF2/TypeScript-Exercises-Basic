@@ -24,7 +24,6 @@ Before you begin, make sure you have installed on your machine:
 ## Installation
 
 1. Clone the repository:
-```
 ```bash
 git clone https://github.com/GuinaF2/TypeScript-Exercises-Basic.git
 ```
