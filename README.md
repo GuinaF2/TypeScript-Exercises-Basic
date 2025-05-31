@@ -8,7 +8,7 @@ Lesson given by professor José Carlos Domingues Flores as a part of the Front-E
 ## Prerequisites
 
 1. Node.js e npm (ou yarn): Certifique-se de que você tem o Node.js instalado. O npm (Node Package Manager) vem junto com ele. Você pode baixá-lo em nodejs.org.
--`Verifique a instalação`:
+- Verifique a instalação:
 node -v
 npm -v
 2. Visual Studio Code (VS Code): Baixe e instale em code.visualstudio.com.
